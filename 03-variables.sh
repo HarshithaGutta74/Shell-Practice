@@ -3,8 +3,8 @@
 PERSON1=Trump
 PERSON2=Musk
 
-echo "$Person1: Hey $Person2, How are you?"
-echo "$Person2:: Hello $Person1 I am good. How are you doing?"
-echo "$Person1: I am good too. What's up?"
-echo "$Person2:: Nothing, Just going to mars, will you come."
-echo "$Person1: Sorry, I will come once you come back"
+echo "$PERSON1: Hey $PERSON2, How are you?"
+echo "$PERSON2:: Hello $PERSON1 I am good. How are you doing?"
+echo "$PERSON1: I am good too. What's up?"
+echo "$PERSON2:: Nothing, Just going to mars, will you come."
+echo "$PERSON1: Sorry, I will come once you come back"
